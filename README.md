@@ -1,13 +1,11 @@
-# Full Stack Airbnb Clone with Next.js 13 App Router: React, Tailwind, Prisma, MongoDB, NextAuth 2023
-
-![Copy of Fullstack Twitter Clone (8)](https://user-images.githubusercontent.com/23248726/229031522-64a49ad0-66f7-4ea8-94a8-f64a0bb56736.png)
+# BroBNb with Next.js 13 App Router: React, Tailwind, Prisma, MongoDB, NextAuth 2023 BY Mugisha Yves
 
 
-This is a repository for a Full Stack Airbnb Clone with Next.js 13 App Router: React, Tailwind, Prisma, MongoDB, NextAuth.
 
-[VIDEO TUTORIAL](https://youtu.be/c_-b_isI4vg)
+This is a project named brobnb which is same like Airbnb
 
-Features:
+
+## Features:
 
 - Tailwind design
 - Tailwind animations and effects
